@@ -7,7 +7,11 @@
 - 네이버 배너의 소규모 의류: http://www.dailylook.kr/?cafe_mkt=ntbox_a01&NaPm=ct%3Dk217f9bk%7Cci%3D116da5cbe4a1bb25b2f2812870e30b1371513c0c%7Ctr%3Dsbtp%7Csn%3D195623%7Chk%3Da0718e7bf81f416e33856347dc99b9c4a0c01efb
 
 ## Python Libraries
-- 
+- beautifulsoup
+- Request
+- urllib
+- selenium
+- scrapy
 
 
 ## 크롤링이란?
