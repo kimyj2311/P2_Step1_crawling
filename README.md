@@ -1,6 +1,6 @@
 # P2_Step1_crawling
 
-## 쇼핑몰 크롤링하기. - 후보군
+## 쇼핑몰 크롤링하기 - 후보군
 - HnM : https://www2.hm.com/nl_be/index.html
 - 지오다노 : https://m.giordano.co.kr/
 - 위메프(의류항목) : https://front.wemakeprice.com/category/group/13
