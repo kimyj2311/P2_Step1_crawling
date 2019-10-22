@@ -14,7 +14,7 @@
 - scrapy
 
 
-## 크롤링이란?
+
 <img width="631" alt="Crawling1" src="https://user-images.githubusercontent.com/39859458/67255485-44b1a580-f4bd-11e9-83c3-e860ac2b1c18.png">
 
 
