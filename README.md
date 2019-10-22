@@ -11,4 +11,7 @@
 
 
 ## 크롤링이란?
-<img width="631" alt="ScipyLecturenote" src="https://user-images.githubusercontent.com/39859458/67102632-bc9e7800-f1fe-11e9-802f-3547142fbe88.png">
+<img width="631" alt="Crawling1" src="https://user-images.githubusercontent.com/39859458/67255485-44b1a580-f4bd-11e9-83c3-e860ac2b1c18.png">
+
+
+<img width="631" alt="Crawling2" src="https://user-images.githubusercontent.com/39859458/67255541-7e82ac00-f4bd-11e9-8de7-f8f5a72a8485.png">
